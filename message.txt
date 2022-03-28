@@ -1,4 +1,6 @@
 Create UI
 add chat functionality
 add emoji functionality
+Allow vedio calls
 add delete functionality
+add vedio calls.
