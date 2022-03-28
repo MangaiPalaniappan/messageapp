@@ -1,0 +1,4 @@
+Create UI
+add chat functionality
+add emoji functionality
+add delete functionality
